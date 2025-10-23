@@ -37,9 +37,9 @@
 
 
 
-# print(10 == 10) 
-# print(20 > 10) 
-# print(20 < 10) 
+# print(12 == 10) 
+# print(20 >  10) 
+# print(20 <  10) 
 # print(20 != 10) 
 # print(20 >= 10) 
 # print(20 <= 10) 

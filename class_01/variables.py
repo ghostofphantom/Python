@@ -45,7 +45,7 @@
 # y = "orange"
 # z = "orange"
 
-x = y = z = "h" "e" "r" 
+x = y = z = "her" 
 
 
-print(x , y, z)
+print(x , y , z)
