@@ -6,10 +6,10 @@
 
 # result = mynum1 + mynum2
 
-myvalues = (1,2,3,4,5,6,7677)
+myvalues = (-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8)
 
 # print(min(myvalues))
-# print(max(myvalues))
+print(max(myvalues))
 # print(sum(myvalues))
 
 # print(myvalues[-1])
@@ -17,4 +17,4 @@ myvalues = (1,2,3,4,5,6,7677)
 # SLICING
 
 # print(myvalues[2 : 6])
-print(myvalues[:4])
+# print(myvalues[:])
